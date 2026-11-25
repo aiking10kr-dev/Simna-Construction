@@ -1,0 +1,11 @@
+{
+  "appId": "com.simnaconstruction.jobs",
+  "appName": "Simna Construction",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "backgroundColor": "#0B0C0E"
+  }
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#FACC15" />
+  <rect x="24" y="24" width="464" height="464" rx="76" fill="none" stroke="#0B0C0E" stroke-width="14" />
+  <!-- Construction Helmet Silhouette -->
+  <path d="M120 264c0-78 61-138 136-138s136 60 136 138v20H120v-20z" fill="#0B0C0E" />
+  <rect x="234" y="102" width="44" height="164" rx="10" fill="#FACC15" />
+  <rect x="244" y="102" width="24" height="164" rx="6" fill="#0B0C0E" />
+  <path d="M96 284h320c13 0 24 11 24 24s-11 24-24 24H96c-13 0-24-11-24-24s11-24 24-24z" fill="#0B0C0E" />
+  <!-- SIMNA Brand Text -->
+  <text x="256" y="422" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-weight="900" font-size="88" letter-spacing="6" fill="#0B0C0E">SIMNA</text>
+</svg>

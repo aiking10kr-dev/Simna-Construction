@@ -1,0 +1,6 @@
+{
+  "name": "Simna Construction",
+  "description": "Simna Construction — Piping, Structure & All Work job application, vacancy portal, and admin management app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
